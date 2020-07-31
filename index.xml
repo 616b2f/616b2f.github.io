@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexej&#39;s Blog</title>
-    <link>http://blog.kowalew.io/</link>
+    <link>/</link>
     <description>Recent content on Alexej&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.kowalew.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to my Blog</title>
-      <link>http://blog.kowalew.io/posts/2019-10-30-welcome-to-my-blog/</link>
+      <link>/posts/2019-10-30-welcome-to-my-blog/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.kowalew.io/posts/2019-10-30-welcome-to-my-blog/</guid>
+      <guid>/posts/2019-10-30-welcome-to-my-blog/</guid>
       <description>Hi my name is Alexej Kowalew, I am a developer currently living in Germany. This going to be a tech blog, mostly to store things I learned to look them up when I forget them :). First I need to get familiar with hugo.
 Stay tuned!</description>
     </item>
